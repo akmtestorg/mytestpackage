@@ -1,5 +1,5 @@
 {
-    "name": "akm/akm-package",
+    "name": "akmtest/akm-package",
     "description": "Test packag",
     "type": "library",
     "autoload": {
