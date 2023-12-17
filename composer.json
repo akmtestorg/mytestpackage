@@ -1,0 +1,11 @@
+{
+    "name": "akm/akm-package",
+    "description": "Test packag",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AkmPackage\\": "src/"
+        }
+    },
+    "require": {}
+}
